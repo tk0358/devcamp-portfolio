@@ -59,4 +59,4 @@ gem 'devise', '~> 4.7'
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 
-gem 'tk0358_view_tool', git: 'https://github.com/tk0358/tk0358_view_tool'
+gem 'tk0358_view_tool', '~> 0.1.0'
