@@ -15,4 +15,8 @@ module ApplicationHelper
       content_tag(:p, greeting, class: "source-greeting")
     end 
   end
+
+  def copyright_generator
+    Tk0358ViewTool::Renderer.copyright 'TK0358', 'All rights reserved'
+  end
 end

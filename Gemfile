@@ -58,3 +58,5 @@ gem 'friendly_id', '~> 5.2.4'
 gem 'devise', '~> 4.7'
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
+
+gem 'tk0358_view_tool', git: 'https://github.com/tk0358/tk0358_view_tool'
