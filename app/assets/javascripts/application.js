@@ -15,7 +15,7 @@
 //= require jquery_ujs
 //= require jquery-ui
 //= require popper
-//= require activestorage
+
 //= require html.sortable
 //= require cocoon
 //= require gritter
